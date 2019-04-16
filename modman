@@ -20,6 +20,7 @@ shell/adyen.php    shell/adyen.php
 
 skin/frontend/base/default/css/adyen.css        skin/frontend/base/default/css/adyen.css
 skin/frontend/base/default/css/adyenstyle.css   skin/frontend/base/default/css/adyenstyle.css
+skin/frontend/base/default/css/adyencheckout.css   skin/frontend/base/default/css/adyencheckout.css
 skin/frontend/base/default/images/adyen         skin/frontend/base/default/images/adyen
 skin/adminhtml/default/default/images/adyen     skin/adminhtml/default/default/images/adyen
 
